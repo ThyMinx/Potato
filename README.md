@@ -1,0 +1,2 @@
+# Potato
+ Potato is a single page RPG created by Oliver Darkshire (@deathbybadger on twitter). In Potato you are a halfling, just trying to exist. Meanwhile, the dark lord rampages across the world. You do not care about this. You are trying to farm potatoes because what could a halfling possibly do about it anyway. Oliver Darkshire also has a patreon with many other single page RPGs available for people to download and play for themselves for free, however, I recommend subscribing to support Oliver for all of his hard work entertaining us.
