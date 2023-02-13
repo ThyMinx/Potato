@@ -71,6 +71,7 @@ internal class Game
         {
             return won;
         }
+        LoadGameTitle();
         Score ending = new Score();
         var endings = Scores.Where(s => s.CurrentValue == s.EndValue).ToList();
         if (endings.Count() == 1)
